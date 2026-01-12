@@ -26,5 +26,7 @@ Through these exercises, I aim to build a solid computational foundation to supp
 future research in biological data analysis, multi-omics analysis, and translational medicine.
 
 ## Current limitations and next steps
-These projects represent my early learning stage in R. I plan to further develop my
+These projects represent an introductory stage of my training in R for biological data analysis.
+I aim to continue developing my skills in statistical analysis and in the integration and
+interpretation of complex biological datasets.
 skills in statistical modeling, machine learning, and integration of biological datasets.
