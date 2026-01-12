@@ -1,0 +1,6 @@
+scripts/2986352W_R scrip 1.R 
+#This folder contains R scripts for data cleaning and analysis.
+data/2986352W_part2_report.pdf 
+#Raw data are not publicly shared due to data governance considerations. This folder is kept to illustrate the project structure.
+figures/2986352W_figures.pdf 
+#This folder is intended for figures generated from the analysis scripts.
